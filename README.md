@@ -13,3 +13,7 @@ Install the live server
 ```sh
 $ npm install  -g live-sever
 ```
+
+Change JAVAScript XML
+
+https://babeljs.io/
